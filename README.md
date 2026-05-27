@@ -1,1 +1,0 @@
-# Bank-Loan-Analysis-Sql_Server-AndPowerBi
